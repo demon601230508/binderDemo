@@ -1,0 +1,4 @@
+#Mon Jan 21 18:19:06 CST 2019
+base.0=E\:\\workspace\\AndroidWorkSpace\\NativeBinderServiceTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
